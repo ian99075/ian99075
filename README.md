@@ -1,4 +1,4 @@
-## Hi there 👋
+## 哈囉 👋
 學歷:國立虎尾科技大學 資訊工程系
 <!--
 **ian99075/ian99075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
