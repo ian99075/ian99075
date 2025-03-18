@@ -1,6 +1,7 @@
 ## 哈囉 👋
 學歷:國立虎尾科技大學 資訊工程系<br>
-程式語言:C,C++,Java,Python
+程式語言:C,C++,Java,Python<br>
+<img width="250" src="https://github.com/user-attachments/assets/7229f8a3-58a8-45b5-b67d-2db086e647cd" style="margin-right:10px" />
 <!--
 **ian99075/ian99075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
